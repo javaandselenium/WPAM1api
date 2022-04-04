@@ -8,7 +8,7 @@
       <![CDATA[Post operation is scuccess]]>
     </line>
     <line>
-      <![CDATA[The dynamic reponame weekendapi1987]]>
+      <![CDATA[The dynamic reponame weekendapi1908]]>
     </line>
     <line>
       <![CDATA[repo is updated successfully]]>
@@ -20,18 +20,18 @@
       <![CDATA[sucess]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-01-23T08:28:10 IST" name="Suite" finished-at="2022-01-23T08:28:19 IST" duration-ms="9589">
+  <suite started-at="2022-04-04T19:35:49 IST" name="Suite" finished-at="2022-04-04T19:35:57 IST" duration-ms="7843">
     <groups>
     </groups>
-    <test started-at="2022-01-23T08:28:10 IST" name="Test" finished-at="2022-01-23T08:28:19 IST" duration-ms="9589">
+    <test started-at="2022-04-04T19:35:49 IST" name="Test" finished-at="2022-04-04T19:35:57 IST" duration-ms="7843">
       <class name="com.Ty.Github.TestScripts.PostOperation">
-        <test-method signature="tc2()[pri:0, instance:com.Ty.Github.TestScripts.PostOperation@5f683daf]" started-at="2022-01-23T08:28:14 IST" name="tc2" finished-at="2022-01-23T08:28:19 IST" duration-ms="5410" status="PASS">
+        <test-method signature="tc2()[pri:0, instance:com.Ty.Github.TestScripts.PostOperation@5f683daf]" started-at="2022-04-04T19:35:53 IST" name="tc2" finished-at="2022-04-04T19:35:57 IST" duration-ms="4777" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Post operation is scuccess]]>
             </line>
             <line>
-              <![CDATA[The dynamic reponame weekendapi1987]]>
+              <![CDATA[The dynamic reponame weekendapi1908]]>
             </line>
             <line>
               <![CDATA[repo is updated successfully]]>
@@ -43,18 +43,18 @@
         </test-method> <!-- tc2 -->
       </class> <!-- com.Ty.Github.TestScripts.PostOperation -->
       <class name="com.Ty.Github.TestScripts.GetOperation">
-        <test-method is-config="true" signature="configBS()[pri:0, instance:com.Ty.Github.TestScripts.GetOperation@4a668b6e]" started-at="2022-01-23T08:28:07 IST" name="configBS" finished-at="2022-01-23T08:28:10 IST" duration-ms="3029" status="PASS">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.Ty.Github.TestScripts.GetOperation@4a668b6e]" started-at="2022-04-04T19:35:48 IST" name="configBS" finished-at="2022-04-04T19:35:49 IST" duration-ms="1523" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBS -->
-        <test-method signature="tc1()[pri:0, instance:com.Ty.Github.TestScripts.GetOperation@4a668b6e]" started-at="2022-01-23T08:28:10 IST" name="tc1" finished-at="2022-01-23T08:28:14 IST" duration-ms="4064" status="PASS">
+        <test-method signature="tc1()[pri:0, instance:com.Ty.Github.TestScripts.GetOperation@4a668b6e]" started-at="2022-04-04T19:35:50 IST" name="tc1" finished-at="2022-04-04T19:35:53 IST" duration-ms="2997" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[getOperation is succesfull]]>
             </line>
           </reporter-output>
         </test-method> <!-- tc1 -->
-        <test-method is-config="true" signature="configAS()[pri:0, instance:com.Ty.Github.TestScripts.GetOperation@4a668b6e]" started-at="2022-01-23T08:28:20 IST" name="configAS" finished-at="2022-01-23T08:28:20 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.Ty.Github.TestScripts.GetOperation@4a668b6e]" started-at="2022-04-04T19:35:57 IST" name="configAS" finished-at="2022-04-04T19:35:57 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[sucess]]>
