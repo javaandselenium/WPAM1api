@@ -16,6 +16,6 @@ public interface IEndPoints {
 	
 	String propertyfilepath="./src/test/resources/data.properties";
 	
-	String verificationcode="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";
+	String verificationcode="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";
 	
 }

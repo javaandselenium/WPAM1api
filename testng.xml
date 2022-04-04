@@ -3,9 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.Ty.Github.TestScripts.Demo2"/>
       <class name="com.Ty.Github.TestScripts.GetOperation"/>
-      <class name="com.Ty.Github.TestScripts.Demo"/>
       <class name="com.Ty.Github.TestScripts.PostOperation"/>
     </classes>
   </test> <!-- Test -->
